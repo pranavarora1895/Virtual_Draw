@@ -5,7 +5,7 @@ frameHeight = 480
 cap = cv2.VideoCapture(0)
 cap.set(4, frameHeight)
 cap.set(10, 150)
-
+print("Use Green Pen/Marker to Draw \n\nPress 'q' to Quit")
 myColors = [[57,76,0,100,255,255]]
 myColorValues = [[0,255,0]] # BGR
 myPoints = []     #[x, y ,colorID]
