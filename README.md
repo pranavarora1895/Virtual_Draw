@@ -10,7 +10,7 @@ Installing Dependencies:
 * Open Terminal/CMD
 * Open Terminal or CMD, then Type ```pip install -r <path to the software requirements.txt>```
 
-**Example:** ```pip install -r c://Users/Downloads/Rank_Finder/requirements.txt```
+**Example:** ```pip install -r c://Users/Downloads/Virtual_Draw/requirements.txt```
 
 ---
 
